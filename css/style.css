@@ -59,9 +59,10 @@ body{
     margin-top: -0.3px;
     margin-left: 3rem;
     margin-right: 3rem;
-    font-size: 13.5px;
+    font-size: 13px;
     font-weight: 500;
     color: var(--Bright-blue);
+    letter-spacing: 0.2px;
 }
 .panel-planbox{
     display: flex;
